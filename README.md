@@ -1,6 +1,4 @@
-Voici une version plus professionnelle et claire de votre README :
 
----
 
 # TP-ISE – Classification avec Modèles Ensemblistes (2025)
 
@@ -13,7 +11,6 @@ Ce TP a pour objectif de vous familiariser avec l’utilisation des **modèles e
 * Interpréter les résultats à l’aide de **SHAP** (SHapley Additive exPlanations).
 * Optimiser le modèle retenu et l’enregistrer pour une utilisation ultérieure.
 
----
 
 ## 🧭 Étapes du TP
 
