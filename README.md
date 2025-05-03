@@ -1,6 +1,6 @@
 
 
-# TP-ISE – Classification avec Modèles Ensemblistes (2025)
+# TP-ISE – Classification  (2025)
 
 ## 🎯 Objectif
 
